@@ -65,6 +65,10 @@ footer a {
     color: #024e76;
 }
 
+section{
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg");
+}
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -103,4 +107,16 @@ footer a {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
+}
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
 }
